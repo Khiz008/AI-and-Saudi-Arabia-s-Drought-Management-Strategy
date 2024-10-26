@@ -1,0 +1,364 @@
+National Water Strategy 2030
+efinition of Key Terms
+Term	Definition
+Water demand associated with irrigation	Does not usually include the requirements of animal husbandry and biological water needs in the aquaculture sector, as the requirements of these areas are small and difficult to estimate.
+Volume of water stored	The volume of water stored in above-ground reservoirs within the municipal supply system (production - available storage days - transport - distribution) divided by the average demand in the municipal sector per day.
+Sanitation services coverage	Total resident population connected to the sewage network / Total population × 100
+Water services coverage	Total resident population connected to the water network / Total population × 100
+Out of division	Total treated water volume / Total wastewater volume combined
+Total cost of water and sanitation services	Total cost of water and sanitation services in the municipal sector / Total service delivery cost volume of water provided and wastewater bundled.
+Water needs of the municipal/residential sector	The quantities of water consumed inside and outside homes in households for multiple uses, such as drinking, cooking, cleaning, bathing, and irrigation.
+Industrial sector needs of water	Quantities of water used in industries that supply water through independent networks (MODON), the Royal Commission for Jubail and Yanbu, and Saudi Aramco.
+Composite capacity	The total full load at the outlet of the water production plant.
+Water needs of the urban sector	The quantities of water consumed by all customers associated with municipal water distribution systems, including domestic, industrial, commercial, and governmental demand, excluding the needs of the industrial sector for water.
+Water losses	The difference between "net production" (i.e., the volume of water available in a water distribution network) and the volume of water available to consumers (i.e., the "lost" volume of water) as a proportion of net production. It includes technical losses (e.g., leakage, evaporation) and business losses (e.g., billing errors, theft).
+Percentage of wastewater aggregated	The rate of wastewater collected and treated as a proportion of the total municipal water produced.
+Rate of reuse of treated wastewater	The ratio of the volume of treated wastewater used in economic activities to the total volume of treated water used in underground storage recovery plans.
+Non-revenue water	Water from which no income is generated minus any legally consumed water that is not billed (i.e., calculated and billed water).
+Water cost percentage	The cost that consumers spend on water as a percentage of their total expenditure during the same period.
+________________________________________
+Executive Summary
+Introduction
+Water is one of the most critical elements of economic and social development. It is essential for human well-being, environmental management, and the sustainability of economic development. Despite its importance, the Kingdom of Saudi Arabia faces significant challenges due to the unsustainable use of water resources, limited water reserves, and the rapid depletion of non-renewable groundwater, all exacerbated by arid climatic conditions. Additionally, high demand for water in the agricultural sector worsens the problem of water scarcity in the Kingdom.
+The government bears the high cost of producing water and providing sanitation services in the urban sector, yet service levels remain suboptimal. The sector also suffers from institutional inefficiencies and inadequate governance mechanisms. Within this framework, the Ministry of Environment, Water, and Agriculture has actively developed a unified reference framework for the water sector. This includes a comprehensive water strategy that integrates trends, policies, legislation, and practices at the national level. The main objective is to address key challenges and restructure the sector.
+The scope of work for preparing this framework involves many elements, including stakeholder engagement and an assessment of the current state of the sector across various dimensions such as water demand, water resources, sector operations, and enablers. It also involves determining the nature and size of supply and demand gaps, as well as the sector's economics under different scenarios. The National Water Strategy document provides the vision and objectives of the strategy, as well as supply and demand strategies and operational processes. It includes mechanisms for developing institutional frameworks, financial projections, financing models, and a performance management framework to ensure the effective and timely implementation of the initiatives recommended by the strategy.
+Approach and Framework
+The Kingdom's National Water Strategy 2030 has been developed with an 11-step approach, divided into three phases:
+1.	Assess the current situation.
+2.	Define the strategy.
+3.	Plan for implementation.
+Strategy Development Methodology
+Throughout the three phases, this framework consists of a comprehensive structure for the preparation of the strategy. The framework is composed of three main elements: objectives, strategies, and implementation plans.
+Objectives of the Water and Sanitation Sector
+1. Security of Supply:
+•	Objective: Ensure continuous access to sufficient quantities of safe water in both normal and emergency situations.
+•	Ingredients: Assess water demand, develop metrics for potential demand management, and determine the optimal supply structure based on available resources in the Kingdom. Assess the entire supply chain to ensure reliability and resilience.
+•	Enablers: Implement performance management mechanisms to ensure efficiency and effectiveness in supply management. Establish an appropriate institutional framework that clearly defines the roles of various bodies responsible for policy-making, planning, and service provision. Include legal and legislative possibilities, and facilitate private sector participation with the necessary policies. Leverage capabilities in regulation, human resources, procedures, technology, systems, finance, marketing, and localization.
+2. Quality and Excellence in Customer Service:
+•	Objective: Provide high-quality, cost-effective water and sanitation services at affordable prices.
+•	Ingredients: Develop and implement standards for service quality, ensure that infrastructure supports effective service delivery, and continuously improve customer service practices.
+•	Enablers: Establish performance management systems to monitor and improve service quality. Develop institutional frameworks that mandate service quality standards and address customer feedback. Foster legal and legislative support to enhance service delivery, and engage the private sector to innovate and improve customer service practices. Address capabilities in regulatory frameworks, human capital, technology, and financial management.
+3. Environmental Sustainability:
+•	Objective: Preserve water resources and improve their use while maintaining environmental sustainability for current and future generations.
+•	Ingredients: Promote water conservation, develop and implement strategies for reducing water waste, and enhance the utilization of treated wastewater. Ensure environmental protection in water management practices.
+•	Enablers: Implement performance management mechanisms to track environmental impact and sustainability. Establish a clear institutional framework to support environmental protection and water resource management. Engage stakeholders and the private sector in sustainable practices, and support legal and legislative measures that promote environmental sustainability. Leverage technological and procedural advancements to enhance environmental protection.
+4. Economic Sustainability:
+•	Objective: Ensure the economic viability of the water and sanitation sector while contributing positively to the national economy.
+•	Ingredients: Optimize resource allocation, develop financial models that support sustainable funding, and improve cost recovery mechanisms. Assess the economic impact of water management practices and ensure they align with national economic goals.
+•	Enablers: Develop performance management systems to monitor economic efficiency and sustainability. Create institutional frameworks that support economic planning and investment in the sector. Facilitate private sector investment and innovation, and establish legal and financial frameworks that support economic sustainability. Address capabilities in financial management, regulation, and resource allocation.
+5. Cost Management:
+•	Objective: Achieve efficient cost management in water and sanitation services to ensure affordability and sustainability.
+•	Ingredients: Develop and implement cost management strategies, optimize operational efficiencies, and reduce water losses in distribution networks. Establish effective billing and collection systems.
+•	Enablers: Implement performance management mechanisms to track and improve cost efficiency. Develop an institutional framework that includes clear roles and responsibilities for cost management. Engage the private sector in cost-effective solutions and establish legal and legislative measures to support cost management practices. Enhance capabilities in financial management, technology, and process optimization.
+Framework for Defining the National Water Strategy 2030
+Relevant Strategies/Studies:
+•	The preparation of the National Water Strategy 2030 involved reviewing studies and reports from stakeholders in the water sector, ensuring the use of the latest research and data.
+•	Relevant strategies and studies include those from ministerial decisions, previous studies, and international benchmarks.
+•	Key findings include the need to rationalize water demand, particularly in agriculture, and the importance of an integrated approach to water supply and demand management.
+Key Issues Identified:
+•	Limited renewable groundwater reserves and low recharge rates due to arid conditions.
+•	High water consumption in the agricultural sector, which relies heavily on non-renewable resources.
+•	Challenges related to outdated infrastructure, high costs of desalination, and significant environmental impacts.
+•	Need for improved service coverage, reduction of water losses, and better institutional capacity.
+Vision and Goals:
+•	Vision: A sustainable water sector that ensures a safe supply, high-quality services, and contributes to economic and social development.
+•	Goals:
+1.	Ensure continuous access to sufficient quantities of safe water.
+2.	Improve water demand management across all uses.
+3.	Provide high-quality, cost-effective water and sanitation services.
+4.	Preserve water resources and enhance environmental sustainability.
+5.	Ensure sector competitiveness and positive contributions to the national economy through effective governance and private sector participation.
+Strategic Programs & Initiatives:
+1.	Water System and Regulations:
+o	Develop policies and legal frameworks for water resources management.
+o	Update water systems, regulations, and quality standards.
+2.	Integrated Water Resources Management:
+o	Optimize the use of renewable and non-renewable water resources.
+o	Improve water resource management capabilities and implement water rights systems.
+o	Promote water conservation, enhance crop productivity, and develop sustainable desalination capabilities.
+This framework aims to address key challenges, benefit from previous studies, and reform the water and sanitation sector to achieve sustainable development goals.
+Review of Relevant Studies and Reports
+During the preparation of this strategy, the development team reviewed relevant studies and reports prepared by stakeholders in the water sector to ensure the incorporation of the latest research and available data. The following diagram highlights the most relevant strategies and studies used in the development process. Many internal and external stakeholders were involved throughout all stages of the study, including through personal interviews and workshops.
+Assessment of the Current Situation
+An assessment of the current state of the water sector in the Kingdom was conducted using a comprehensive framework that covers critical aspects of the sector. This assessment also relied on previous studies, personal interviews with key stakeholders, and benchmark comparisons with international models.
+The comparison of previous studies revealed a consensus on the need to rationalize water demand, especially in the agricultural sector. The studies also emphasized the importance of adopting a comprehensive approach to developing, directing, and diversifying national and local water supply sources, improving sector operations, and conducting a thorough evaluation of the institutional framework and governance mechanisms. Additionally, the possibility of private sector participation in service provision was considered.
+The Kingdom faces a limited reserve of non-renewable groundwater resources available for exploitation, coupled with low recharge rates due to arid climatic conditions. Water demands in the Kingdom (estimated at around 24.8 billion cubic meters in 2015) show a steady annual increase of approximately 7%, with the agricultural sector being the largest consumer of water, accounting for 84% of total water demand. This reflects the sector's reliance on non-renewable resources, which constitute 90% of the water supplied to the sector.
+The high-water use in agriculture is attributed to gaps in water sector policies, regulations, and general inefficiencies in usage. For instance, fodder alone accounts for 79% of water requirements in the agricultural sector, with current irrigation efficiency at 50%, compared to better practices globally which achieve around 75%. Some regions in the Kingdom may face depletion of water reserves within the next ten years, necessitating immediate action to address this issue.
+Despite the limited availability of treated wastewater, infrastructure challenges, acceptance issues in some areas, and limited regulatory oversight and incentives, there is insufficient use of treated wastewater.
+Urban water consumption presents numerous opportunities for improvement, which can be achieved by reducing water losses in the network (estimated to exceed 25% in various regions), within buildings, and through establishing price indicators and incentives for water conservation. Given the heavy reliance on desalinated water (60% of total urban water supply), and the current subsidies, this sector imposes multiple burdens.
+Economic Impact and Operational Challenges
+The national economy is significantly impacted by the high cost of production due to elevated transport costs associated with pumping water from the coasts to the interior. The sector also heavily relies on fuel; for instance, fuel consumption in desalination accounts for more than 25% of the national fuel production. Moreover, desalination leaves a significant environmental footprint due to the disposal of saline and clay residues, as well as greenhouse gas emissions.
+Operational challenges and service quality issues must be efficiently addressed. There is a need to expand the coverage of water and wastewater networks and reduce high losses in distribution networks caused by technical problems. Many households experience irregular water supply, necessitating reliance on costly water tankers.
+On the other hand, the infrastructure is somewhat outdated, with delays in large-scale projects due to funding challenges. Billing and collection processes are low across various parts of the Kingdom, exacerbating the already low cost recovery rates in this sector. This low recovery rate reduces the incentives for service providers to improve service quality. Additionally, there is a need to address gaps in institutional capacity, human capital, technology, and operations to align the sector with global standards.
+The government has launched several initiatives to reform the water sector according to royal decrees, encouraging private sector involvement. However, the Ministry of Environment, Water, and Agriculture continues to play a central role throughout all functions and steps in the water sector. There is limited focus on expanding the Ministry's involvement in secondary water policies and governance, as well as service provision. Oversight of economics and resources in the sector is also limited, which could hinder the management of water resources at both national and local levels.
+The current legislative and legal framework is insufficient and does not support effective governance. The water sector still operates under the 1980 Water Law, and there is no independent legislative body for the entire value chain of operations. There are no implemented plans for licensing in water resource management, and other regulations are either unavailable or inadequately enforced. Commercial relationships and agreements with major stakeholders for providing water services are either insufficient or lacking, affecting transparency, accountability, and governance. These structural issues have led to limited private sector participation in the water sector, with private sector involvement primarily restricted to water production.
+The National Water Strategy 2030 aims to address all major challenges, benefit from previous and ongoing studies, and reform the water and wastewater sector to ensure sustainable development of water resources in the Kingdom, providing high-quality services at reasonable prices.
+Vision and Objectives
+The vision is to have a "sustainable water sector that develops and preserves water resources, protects the environment, and provides safe supply, high-quality services, and efficiency contributing to economic and social development." The vision is articulated through five strategic objectives:
+1.	Ensure Continuous Access: To sufficient quantities of safe water in both normal and emergency situations.
+2.	Improve Water Demand Management: In all uses.
+3.	Provide High-Quality and Cost-Effective Water and Sanitation Services: To ensure affordable prices.
+4.	Preserve Water Resources and Improve Their Utilization: While maintaining the local environment for the benefit of the Saudi community now and in the future.
+5.	Ensure Sector Competitiveness: And its positive contribution to the national economy by enhancing effective governance, encouraging private sector participation, and fostering capacity building and innovation.
+Strategic Programs and Initiatives
+The strategic programs and initiatives are derived from the five strategic objectives and involve a detailed analysis of their various components, as follows:
+Program 1: Water System and Regulatory Framework
+•	Objective: To provide a comprehensive set of policies and implement a suitable legal and regulatory framework for water resource management. This program is sponsored by the Water Affairs Agency in the Ministry of Environment, Water, and Agriculture.
+o	Initiatives:
+1.	Update and issue new water regulations and policies.
+2.	Develop regulatory frameworks and quality standards related to water resource management.
+Program 2: Water Resource Management
+•	Objective: Based on an integrated water resource management approach in the Kingdom of Saudi Arabia. This program aims to ensure optimal use of available water resources by managing current resources such as renewable and non-renewable groundwater, surface water, and treated wastewater, and by reducing current consumption rates in urban and agricultural sectors. The program is sponsored by the Water Affairs Agency in the Ministry of Environment, Water, and Agriculture.
+o	Initiatives:
+1.	Restructure and develop integrated water resource management capabilities.
+2.	Manage information and digital systems to support decision-making.
+3.	Develop and implement a water rights system, create water resource records, and establish monitoring mechanisms.
+4.	Integrated water planning.
+5.	Reduce fodder production and enhance crop productivity through comparative advantage.
+6.	Improve water use efficiency in buildings and household appliances.
+7.	Implement awareness campaigns and change incorrect behaviors and practices.
+8.	Develop renewable groundwater resources and surface water.
+9.	Upgrade and develop wastewater treatment plants and enhance the reuse of treated water.
+10.	Develop sustainable desalination capabilities.
+11.	Develop non-renewable groundwater resources.
+12.	Expand production capacity to meet the demands of pilgrims and Umrah performers (guests of Rahman).
+13.	Enhance the role of the third sector in the water sector.
+14.	Comply with environmental regulations and requirements.
+Program 3: Sector Preparedness for Emergency Management
+The Emergency Management Preparedness Program aims to ensure the continued readiness of water and sanitation sectors to address any disruptions in daily operations. This program considers all potential risks that could disrupt water supply operations and includes the Ministry of Environment, Water, and Agriculture, and relevant entities in the preparedness planning process.
+•	Sponsorship: The program is sponsored by the Water Affairs Agency in the Ministry of Environment, Water, and Agriculture.
+•	Initiatives:
+1.	Integrated risk management and emergency management plans.
+2.	Expand connectivity, design, and control systems.
+3.	Increase strategic storage capacity, including groundwater recharge plans.
+Program 4: Research, Development, and Capacity Building
+This program focuses on advancing research, development, and capacity building, and improving leadership and management capabilities in the water sector.
+•	Sponsorship: The program is sponsored by the Water Affairs Agency in the Ministry of Environment, Water, and Agriculture.
+•	Initiatives:
+1.	Develop and implement a research and development strategy for the water sector.
+2.	Build and develop national water capabilities.
+3.	Localize the water sector.
+Program 5: Supply Chain Efficiency and Service Quality
+The water supply chain in Saudi Arabia faces several operational and service quality challenges, including:
+1.	Aging infrastructure with potential for improvement in asset management policies and practices.
+2.	Delays in major projects due to inefficient capital across the supply chain.
+3.	Limited focus on customers by most water sector entities.
+4.	Low cost recovery rates that reduce incentives to improve efficiency and service levels.
+To address these challenges, the strategy includes a program to enhance sector operations and service delivery, sponsored by the Distribution Affairs Administration in the Ministry of Environment, Water, and Agriculture.
+•	Initiatives:
+1.	Expand and rehabilitate the water distribution network.
+2.	Expand and rehabilitate the sewage network.
+3.	Reduce losses and address irregular supply issues.
+4.	Develop the use of smart meters, billing, and collection systems.
+5.	Improve customer service.
+6.	Automate distribution processes.
+7.	Monitor pollution and improve water quality.
+Program 6: Regulatory Framework for Water Services
+The Regulatory Framework for Water Services Program aims to ensure the performance of the regulatory body, namely the Electricity and Cogeneration Regulatory Authority, in regulating water, electricity, and cogeneration services. This program is closely related to the policies, laws, and regulations program, as the regulatory body will oversee:
+1.	Granting licenses and permits to service providers.
+2.	Reviewing urban and industrial tariffs.
+3.	Implementing appropriate commercial agreements and balancing accounts.
+•	Sponsorship: The program is sponsored by the Electricity and Cogeneration Regulatory Authority.
+•	Initiatives:
+1.	Develop regulatory capacities for water services.
+2.	Reform urban sector tariffs.
+3.	Develop and issue water service regulations and licenses.
+4.	Commercial agreements and account balancing.
+Program 7: Restructuring the Saline Water Conversion Corporation
+This program is part of the strategy to privatize the Saline Water Conversion Corporation. It focuses on restructuring and transforming the corporation to fulfill its mission.
+•	Sponsorship: The program is sponsored by the Saline Water Conversion Corporation.
+•	Initiatives:
+1.	Technical assessment of transmission lines and assets.
+2.	Technical evaluation and necessary investigations of production assets.
+3.	Restructuring (legal, financial, administrative).
+Program 8: Private Sector Involvement in Wastewater Production and Treatment
+This program, within the framework of the Saline Water Conversion Corporation privatization strategy, focuses on aggregating production and wastewater treatment assets for privatization.
+•	Sponsorship: The program is sponsored by the Water and Electricity Company.
+•	Initiatives:
+1.	Enhance the capabilities of the Water and Electricity Company.
+2.	Implement private sector involvement in water production.
+3.	Implement private sector involvement in wastewater treatment plants.
+Program 9: Restructuring Distribution and Private Sector Involvement
+The Restructuring Distribution Program aims to transform the distribution sector’s infrastructure to prepare it for privatization.
+•	Sponsorship: The program is sponsored by the National Water Company.
+•	Initiatives:
+1.	Assess and review private sector involvement processes.
+2.	Restructure distribution facilities according to the approved proposals for all regions.
+3.	Prepare and issue management contracts.
+4.	Prepare and issue concession agreements.
+Program 10: Restructuring the General Irrigation Authority and Improving Irrigation
+This program allows for the restructuring of the General Irrigation Authority to expand its role.
+•	Sponsorship: The program is sponsored by the General Irrigation Authority.
+•	Initiatives:
+1.	Define tasks and develop strategy.
+2.	Develop capacities and partnerships.
+3.	Improve irrigation practices and promote the use of treated water in agriculture.
+Implementation Plan and Budget
+The following table outlines the proposed timeline for the programs and initiatives included in the National Water Strategy.
+Strategy Phases:
+•	Phase One: Assessment of the Current Situation: This phase covers assessing the current situation and is divided into five chapters:
+1.	Strategic dimensions and current performance across these dimensions.
+2.	Overview of available water resources in the kingdom, including desalinated, renewable, non-renewable groundwater, treated water, and other resources. It includes an assessment of demand based on major water uses in agricultural, municipal, and industrial sectors.
+3.	Sector operations through the supply chain and an assessment of current capacities and service delivery performance.
+4.	Current institutional framework and organizational structure governing the water sector.
+•	Phase Two: Strategy Definition: This phase involves defining the strategy and is divided into two chapters:
+1.	Vision of the strategy and its goals.
+2.	Programs and initiatives related to the vision and how they align with Vision 2030 and its realization programs.
+•	Phase Three: Implementation Plan: This phase covers the implementation plan and is divided into three chapters:
+1.	Initiatives identified in the second phase, with detailed schedules.
+2.	Implementation timeline, budget requirements, and performance management framework.
+3.	Overview of the sector’s economics through various value chain components, benefits expected from the strategy for the water sector and the kingdom’s economy until 2030
+Chapter 1: Overview of Sector Performance
+Main Strategic Dimensions
+The performance of the water sector was measured against five main dimensions:
+1.	Availability: This dimension concerns ensuring a continuous and adequate supply of water resources under both natural and emergency conditions, as well as ensuring access to these resources.
+2.	Cost Effectiveness: This dimension focuses on providing water at reasonable prices while maintaining price indicators and cost recovery, in addition to improving prices through increasing capital efficiency and operational efficiency.
+3.	Quality: This dimension includes ensuring that water supplies comply with the World Health Organization’s standards and local quality standards, and providing service levels that align with the best global practices.
+4.	Environmental Sustainability: This dimension requires maintaining non-renewable water resources and minimizing the environmental footprint of the water sector, especially in terms of greenhouse gas emissions, untreated wastewater, and impacts on natural ecosystems.
+5.	Economic Sustainability: This dimension involves enhancing the contribution of the water sector to the national economy, expanding private sector participation, and encouraging contributions to technological innovation and industrial localization.
+These dimensions are designed to align with the objectives of Saudi Vision 2030, as well as the goals of the Ministry of Environment, Water, and Agriculture, as illustrated in Figure 1. Key performance indicators have been set for each strategic dimension to measure the performance of the water sector (different from the key performance indicators of the National Transformation Program) selected from a long list of indicators based on comprehensiveness, data availability, and relevance to the context of the Kingdom (Figure 2).
+________________________________________
+Chapter 2: Water Resources and Usage
+This chapter is divided into two sections: the first addresses available water resources, while the second discusses how these resources are used in urban, agricultural, and industrial sectors, and future demand projections.
+Water Resources
+The water resources in the Kingdom are divided into five categories:
+1.	Desalinated Water
+2.	Non-renewable Groundwater
+3.	Renewable Groundwater
+4.	Surface Water
+5.	Treated Wastewater
+Desalinated Water
+There are currently 35 desalination plants located on the eastern and western coasts of the Kingdom of Saudi Arabia. Recent data indicates that the total desalination production capacity was 6.28 million cubic meters per day in 2020, with the General Authority for Saline Water accounting for 73% of the total production capacity. Three types of technologies are used for desalination: multi-stage flash distillation, reverse osmosis, and multi-effect distillation. Multi-stage flash distillation is currently the dominant technology, representing 62% of the total production capacity.
+Non-renewable Groundwater
+Non-renewable groundwater in the Kingdom is distributed across a series of aquifers. The Kingdom's groundwater reserves are accumulated in more than 20 primary and secondary aquifers, serving various regions. All primary groundwater aquifers are located in the Arabian Shield, which does not contain primary or secondary aquifers due to its non-porous rock formation.
+Renewable Groundwater
+Renewable groundwater in the Kingdom exists in shallow and deep aquifers and surface water in valleys. Preliminary estimates suggest that renewable groundwater currently amounts to approximately 2.8 billion cubic meters annually in the Arabian Shield area.
+Surface Water
+The total available surface water from dams is about 1.6 billion cubic meters annually, with 73% of this total available in the regions of Asir, Makkah, and Jazan. These areas have an abundance of renewable groundwater and surface water due to their rocky, non-porous terrain in the Arabian Shield.
+Treated Wastewater
+Treated wastewater is produced from treating sewage water to make it safe for various uses, including industrial processes, cooling, and agriculture. Treated wastewater is a significant resource in a water-scarce country and should be considered in the supply system. The total amount of treated wastewater used across the Kingdom in 2015 was 0.40 million cubic meters per day, with 0.61 million cubic meters per day expected by 2020. However, the average amount of reused treated wastewater was only 17%. The Kingdom faces several challenges related to wastewater services and treated water, including the need for improvements in sewage collection systems, as coverage remains relatively low, and current treatment plants use high levels of resources, leading to reduced quality of treated water.
+Other Water Resources
+In addition to existing resources, there are additional water resources that require further study to determine their full potential, including gray water and rainwater harvesting.
+Water Usage
+Total water needs in the Kingdom increased by 7% from 2011 to 2015, reaching 24.6 billion cubic meters in 2015, up from 19.2 billion cubic meters in 2011. The agricultural sector accounts for the largest share of water consumption, with an average growth rate of 7% annually. The agricultural sector uses more than 80% of the water, with a growth rate of 7% annually in comparison to the urban and industrial sectors.
+In Saudi Arabia, the scope of water use is specifically challenging due to heavy reliance on non-renewable sources. Additionally, the agricultural sector’s contribution to the economy is much lower than the opportunity cost of water. Analysis shows that the weighted average opportunity cost of water is 157% higher than the total GDP of the agricultural sector. The over-extraction of non-renewable groundwater for agricultural purposes is exacerbated by gaps in water sector policies and regulations, as well as inefficient agricultural practices. Factors contributing to this include the lack of groundwater extraction policies and preservation measures, inadequate regulatory frameworks and licensing programs, and a lack of monitoring and control mechanisms. The absence of groundwater extraction policies and oversight continues to hinder effective water allocation.
+Moreover, the regulatory framework for groundwater preservation is inadequate, with estimates indicating that half of the wells in the Kingdom are unlicensed, and there are no clear guidelines for defining extraction limits, reporting mechanisms, or penalties. Additionally, monitoring and control of groundwater extraction is insufficient, with little effort made to prevent the use of unlicensed wells. Furthermore, agricultural practices remain below desired levels in terms of strategic planning, productivity, and efficiency. The cultivation of green fodder, which is a high-water-consuming crop, has dominated water needs in the agricultural sector. However, it is expected that most green fodder cultivation will cease by the end of 2018 following the issuance of Decision No. 66, which has led to a decline in wheat production in recent years. In addition to water consumption amounts, there is also an issue with production efficiency, with average productivity in Saudi Arabia being lower than the global average for some crops, although it aligns with the global average for grains. There is a clear opportunity to improve crop distribution. Other factors to consider include that the average irrigation efficiency in Saudi Arabia has been around 50% over the past decade, while best global practices suggest that efficiency could range from 75% to 85%. Adding the efficiency issue to water challenges, some regions in Saudi Arabia may face the depletion of their reserve stocks within the next twelve years if current rates of non-renewable groundwater extraction persist. These projections are based on the total exploitable groundwater reserves in each region, assuming that this represents 50% of the estimated total groundwater reserves, considering technical, economic, and water quality factors.
+The degradation of water quality is also linked to the overall salinity levels in groundwater layers in the Kingdom of Saudi Arabia, which results from various physical and chemical processes. These processes are directly or indirectly related to unsustainable extraction, which also leads to increased concentrations of radioactive isotopes in groundwater layers. The situation worsens with the natural increase in radioactive isotopes in some groundwater layers, with rising levels over time, exceeding the recommended guidelines for potable water quality. Areas affected by radioactive material contamination in groundwater are experiencing increased extraction.
+Urban Sector
+The consumption of water in the urban sector is rapidly increasing, with four areas alone—Riyadh, Makkah, the Eastern Province, and Madinah—consuming more than 80% of the total. Additionally, the per capita water consumption in urban areas varies from one region to another (Figure 3). Areas with the highest water demand are those with higher per capita consumption. The main reasons for the relatively high per capita water consumption in the Kingdom of Saudi Arabia include:
+1.	High technical losses in networks and increased losses within buildings (after the meter).
+2.	Limited pricing indicators, including issues with meter readings and bill preparation, along with a lack of incentives to conserve water.
+Given that the Kingdom of Saudi Arabia relies heavily on desalinated seawater, the increase in urban sector demand significantly affects financial and energy needs. The production cost of desalinating seawater is higher than alternative sources, exacerbated by transportation costs. Desalination also requires four to five times more energy than alternative sources, significantly impacting the environmental footprint due to effects on coastal ecosystems and greenhouse gas emissions.
+Industrial Sector
+Industrial demand for water has increased in line with the growth in the industrial sector's gross domestic product (GDP) over the past five years, with an annual growth rate of 4.8% during the same period. Economic cities in the Kingdom (more than 20 cities) are the highest water consumers in the industrial sector, despite challenges in accurately estimating industrial water use. Data must be gathered from various sources, and recent studies recommend establishing a national database for industrial water demand to enable more accurate forecasts.
+Groundwater and desalinated water constitute the largest portion of industrial supplies, accounting for nearly 80% of the total. However, industrial cities are also applying sustainability criteria, recycling up to 50% of wastewater, and using treated water primarily in some industrial processes and for irrigating parks and green spaces. Industrial activities, particularly in the oil and gas sector, cause environmental damage and strain water resources, requiring large quantities of non-renewable groundwater. Used water disposal also leads to groundwater contamination. Furthermore, oil and gas activities cause environmental damage to marine and coastal ecosystems. Drilling operations produce toxic pollutants for marine life, while drilling waste alters the sea floor and kills organisms living there. Spills and accidental oil leaks further degrade marine life and cause irreversible damage to coastlines.
+Water Demand Forecast
+Water needs are categorized into four client groups:
+1.	Urban sector
+2.	Agricultural sector
+3.	Industrial sector
+4.	Environmental sector
+Urban Sector Water Demand Forecast
+This category includes water used for residential, commercial, governmental, municipal, and industrial (network-connected) purposes. It constitutes 10% to 15% of the total water needs in the Kingdom.
+The forecasts considered the following key factors:
+•	Population growth
+•	Gross domestic product (GDP) growth
+•	Technical losses
+•	Savings from consumption management programs (excluding changes in pricing)
+•	Minimum per capita consumption
+Two scenarios were prepared for urban sector water needs: an ideal scenario and a conservative scenario, adjusting for water needs incentives.
+Agricultural Sector Water Demand Forecast
+Water needs in the agricultural sector account for 80% to 85% of the total water needs in the Kingdom of Saudi Arabia (2015). Two scenarios were used to estimate water needs in this sector: an ideal scenario and a conservative scenario. The following incentives were adjusted:
+•	Cessation of fodder cultivation. In the ideal scenario, the cultivation of fodder exceeding 100 hectares will be halted. In the conservative scenario, fodder cultivation exceeding 100 hectares will be replaced by other crops according to regulations set by the Ministry of Environment, Water, and Agriculture, ensuring water conservation and the success of implementing the decision to stop green fodder cultivation to reduce water consumption in the agricultural sector.
+•	Irrigation improvement initiatives. In the ideal scenario, irrigation improvements (efficiency, scheduling, etc.) will lead to a 26% reduction in water needs by 2030. The conservative scenario estimates that complete irrigation improvements will reduce needs by 13% by 2030.
+Industrial Sector Water Demand Forecast
+This section includes water used in industrial clusters that secure their own water (such as cities, the Royal Commission for Jubail and Yanbu, Saudi Aramco). It constitutes 3% to 5% of the total water needs in Saudi Arabia (2015).
+A general assessment was conducted to estimate industrial water needs. In the absence of relevant data, calculations were based on water needs of economic cities and major industrial sectors like cement and mining. Water needs in economic cities are concentrated in four areas: Riyadh, Makkah, Madinah, and the Eastern Province. Projections for 2016 and 2030 account for a 4% margin according to recent facility data.
+Environmental Sector Water Demand Forecast
+This sector includes water used in national parks. It represents less than 1% of total water needs in the Kingdom (2015). The Kingdom plans to expand national parks, which will require an additional 191 million cubic meters by 2030.
+After analysis and extensive consultations with stakeholders, the conservative scenario was adopted as the base scenario in the strategy.
+Water Supply Sources Forecast
+Water supply forecasts were determined based on the optimal sources for each client group:
+•	Renewable groundwater and current usable reserves, regional constraints, and annual groundwater recharge costs.
+•	Surface water analysis based on rainfall in the Arabian Shield region, evaporation, and potential dam coverage (5% and 10%).
+•	Treated wastewater potential analysis based on current and expected future capacities and reuse goals.
+•	The anticipated desalination capacity was based on the General Authority for Saline Water’s plans, considering only designated capacities and timelines up to 2022.
+Renewable groundwater is considered stable based on current annual recharge rates.
+Chapter Three: Sector Operations and Capabilities
+This chapter reviews the various elements of the water sector value chain and discusses the current capabilities of the sector to identify the gaps that need to be addressed in the strategy.
+Transmission Lines and Distribution Networks
+The total length of the main water transmission pipelines in the Kingdom exceeds 8,000 kilometers, with the Saline Water Conversion Corporation (SWCC) managing the largest portion of these pipelines. Most groundwater transmission systems are less than 10 kilometers long, except for some stations where the purification stations are located more than 100 kilometers away from supply points.
+Water wastage presents a major challenge for the Kingdom's water networks. Estimates place water wastage in the Kingdom at a significantly lower level than global best practices. The situation could be even worse due to the lack of clear visibility when estimating water loss. Various sources point to different amounts of technical and commercial losses, leaks, and unaccounted-for water. Additionally, there has been limited implementation of meters in residential areas, and supervisory control and data acquisition (SCADA) systems have not been installed in most areas to monitor losses effectively. Furthermore, billing and collection systems were only recently implemented, and not all end users are measured. Today, the National Water Company is the only entity estimating water wastage in each of the four cities under its management. Based on data from these cities, water wastage in major Saudi cities ranges between 25% and 40%. In the absence of reliable data, the strategy adopts the National Water Company's average estimate of 30% currently, with a target to reduce it to 15% by 2024.
+Wastewater Collection, Treatment, and Reuse
+There are about 70 wastewater treatment plants in Saudi Arabia, and the coverage of sewage pipeline networks in serviced areas is about 60%. Riyadh, Mecca, and the Eastern Region account for around 75% of the total capacity of wastewater treatment plants in the Kingdom. These three regions also contain more than half of the sewage network (61% of the total sewage network in the Kingdom).
+The agricultural sector consumes the largest share of treated wastewater at 66%, followed by municipalities at 23%, and the industrial sector at 11%. Disposing of wastewater generated by civil activities remains a major environmental challenge for the Kingdom. Inefficient management of urban and industrial flows leads to chemical (toxic substances, carcinogens, and heavy metals) and thermal pollution in marine and coastal areas, threatening the survival of animals and plants. The current capacity of wastewater treatment plants is insufficient, with some plants only providing primary and secondary treatment. Additionally, stormwater drainage channels are connected to sewage channels, leading to raw sewage being discharged directly without treatment during heavy rainfall events.
+Billing, Collection, and Customer Service
+Commercial losses are high across the Kingdom due to the low level of billing and collection systems. A significant portion of the population does not receive water bills. In other areas, meters have been installed, but their readings are not taken, and even when meter readings are recorded, they are often inaccurate. The penetration of smart meters in the Kingdom is low.
+There are many gaps in sales operations and customer service across the Kingdom, such as irregular water supply, limited services in local branches, limited use of technology to improve customer service, and a lack of effective management of customer service performance. Reasons for low customer service levels include:
+1.	Lack of focus on customer service.
+2.	Limited investment in improving customer service.
+3.	Lack of training and development for customer service employees.
+Capabilities
+Regulation and Human Capital
+Most entities require organizational restructuring to address governance challenges and develop their business models, and reduce fragmentation in service delivery. There are gaps in capabilities in key positions, and there is a low level of competency management to attract and retain employees. Additionally, the prevailing culture in the sector does not align with a commercial mindset.
+Technology
+The sector suffers from the absence of a unified systems environment and infrastructure, as well as a lack of sufficient information about assets and their condition. Many processes are carried out manually and on paper, resulting in poor data quality and information management, which does not support effective decision-making. Moreover, limited use of customer analytics exacerbates the situation.
+Operations
+When it comes to operational gaps, we observe the absence of an integrated plan for managing water and wastewater resources. Often, strategies—when they exist—are disconnected from functional levels. Additionally, customer engagement and relationship management strategies are either underdeveloped or nonexistent, and revenue management and cost distribution philosophies are often unclear. At the same time, there are no standardized systems for project management and maintenance management.
+Asset Management
+The water sector suffers from aging infrastructure, representing an opportunity for significant improvement in the sector.
+•	Saline Water Conversion Corporation (SWCC): The assessment of SWCC's current situation reveals generally strong asset performance, which can be further enhanced through better communication between departments. Assets are under continuous monitoring, but there is a need to improve decision-making methods regarding capital planning and execution.
+•	National Water Company (NWC): Limited information is available about NWC’s assets, and there is no clear view of asset condition. The assessment also revealed a lack of effectiveness in project planning and budgeting, with planning, project implementation, and maintenance functions operating in isolation from one another. Furthermore, current operations do not lead to an improvement in asset lifecycle management. While the technical operation and maintenance service contracts have delivered acceptable results so far, commercial management needs to be strengthened. NWC is working to develop its asset management capabilities.
+•	Directorates of the Ministry of Environment, Water, and Agriculture: There is variability in asset performance across the Ministry’s directorates. Asset information is not integrated, and most directorates do not maintain a fixed asset register. Additionally, some directorates have an excessive number of assets, and assets and networks are often managed by local contractors who are sometimes not qualified.
+Chapter Four: Institutional Structure and Regulatory Framework
+Introduction
+To provide an overview of the institutional structure of the water sector, an analysis of the five main functions of the sector was conducted. This analysis revealed several problems with the current institutional structure.
+The first function of the sector is policymaking. There is still limited focus on policy development, and governance is below the required level. This is largely due to the Ministry of Environment, Water, and Agriculture's involvement in both regulatory and operational activities, alongside the lack of a comprehensive set of policies and limited integration between water and agricultural policies.
+The second function is planning. It has become apparent that there is no integrated planning at the sector level to identify the necessary supply sources to meet water demand. Additionally, there is no comprehensive long-term vision for the sector, nor is there a complete plan for the industrial sector to complement the plans related to water use in the agricultural and urban sectors.
+The third function is water resource management. Water resources are not efficiently managed at the national and local levels, and there is no comprehensive plan for integrated resource management. There is limited insight into the economics and resources of the sector. For instance, there is no record of groundwater wells or the quantities of groundwater extraction. The regulatory function comes after resource management. Currently, there is no independent entity responsible for regulating the entire value chain of operational processes, and many regulatory responsibilities are either absent or not applied across the value chain. Moreover, there is no clarity on the extent of enforcement and monitoring of environmental regulations issued by the General Authority of Meteorology and Environmental Protection.
+The fifth function is service delivery. The Ministry of Environment, Water, and Agriculture is heavily involved in operational processes. Previous plans to expand the coverage of the National Water Company to all directorates and establish local companies across various regions of the Kingdom have not been implemented. Additionally, the lack of or insufficient communication and agreements between the major stakeholders in the water sector negatively affects governance and accountability.
+Policymaking, Planning, and Water Resource Management
+There is currently fragmentation in policymaking and planning among various entities, with a lack of coordination between the active entities and sectors. Furthermore, the long-term vision for the sector is incomplete, and there is no comprehensive plan for the industrial sector, similar to the existing plans for water use in the agricultural and urban sectors—the same applies to demand management planning. In this context, and given the absence of coordination between agricultural, urban, and industrial interests, it is difficult to identify supply sources and meet demand.
+There is an urgent need to adopt an integrated approach to water resource management to identify the optimal supply sources to meet the growing demand in the Kingdom. There are several gaps in current practices, as sustainable extraction rates for non-renewable water resources have not yet been determined for each region. Meanwhile, water resource planning and distribution are carried out without a comprehensive assessment of key constraints, such as water production economics, energy requirements, and environmental impacts. There is a need for centralized policymaking and resource planning and management at the ministry level.
+Regulation
+The current legislative framework is still governed by the Water Law issued in 1980, and its regulations are inadequate. The current legal and regulatory system suffers from several issues:
+•	Fragmentation and lack of cohesion, as it was developed in phases to address pressing needs.
+•	Absence of economic regulations, particularly concerning service levels in the supply chain.
+•	Lack of regulations and licenses for implementing integrated water resource management practices.
+•	Lack of environmental protection legislation and enforcement mechanisms.
+•	Limited provisions for resolving water sector disputes.
+The Electricity and Cogeneration Regulatory Authority (ECRA) is considered the best-suited entity in Saudi Arabia to regulate water and sanitation services, while the Ministry of Environment, Water, and Agriculture serves as the regulator for water resources. The following table summarizes the distribution of responsibilities for regulating the water sector.
+Service Delivery
+The Role of the Ministry of Environment, Water, and Agriculture in Service Delivery The Ministry of Environment, Water, and Agriculture is heavily involved in service delivery, which is not a widespread practice globally. The ministry is responsible for water production from groundwater wells across the Kingdom, except for areas managed by the National Water Company. It also manages distribution operations in all regions of the Kingdom, except for those managed by the National Water Company and some remote areas. In addition, the ministry handles billing and customer service operations in their entirety, as well as wastewater collection and treatment in all regions, except for those managed by the National Water Company. In contrast, international benchmarks indicate the limited involvement of central ministries in the operational processes of the water sector in other countries.
+Private Sector Participation: Constraints and Challenges
+Private sector participation in the water and sanitation sector in the Kingdom is limited to water production, specifically desalinated water production through independent production plants. As for groundwater, private well fields supply water to individuals, real estate, and farms. In terms of water distribution, three administrative contracts have ended, and their level has been reduced to technical support contracts.
+Although private sector participation is limited, it has faced several challenges so far. Changes in government investment strategy, amidst the global economic slowdown, have affected desalination projects. Imbalances in risk-sharing between private sector investors and the government have also had an impact. At the same time, delays in implementing structural regulatory changes, including tariff reforms and regulated compensations, have affected distribution and collection. Other challenges that previous private sector participation contracts in distribution and collection have faced include asset and employee underperformance, performance variations across different regions, and challenges in performance measurement due to the quality of technical and financial information. Finally, wastewater treatment also faces challenges related to revenues and sovereign guarantees.
+As part of this strategy, a comprehensive analysis was conducted to determine the optimal structure for service delivery in the water sector, following a four-step methodology to identify and evaluate options.
+Vertical Integration Options:
+•	Break the problem into a set of questions that cover all vertical integration options.
+•	Identify and evaluate the benefits and limitations of different solutions for each question.
+•	Eliminate suboptimal solutions wherever possible.
+•	Combine selected solutions into vertical integration options in the supply chain.
+Horizontal Integration and Geographic Grouping Options:
+•	Identify and evaluate the most important structural and horizontal options.
+•	Eliminate horizontal options that are not applicable or do not meet the required level.
+•	Define general guidelines and incentives for geographic groupings.
+•	Evaluate geographic groupings and identify the most suitable options.
+Public-Private Partnership Models:
+•	Identify potential partnership models between the public and private sectors within the value chain.
+•	Assess the applicability of each partnership model in Saudi Arabia.
+•	Recommend public-private partnership options within the value chain.
+Governance Models and Roadmap:
+•	Evaluate different corporate structures for service provider governance and develop a shortlist of potential options.
+•	Develop a roadmap to achieve the targeted institutional structure.
+Vertical Integration Options
+Six main questions were analyzed to develop a shortlist of vertical integration structure options.
+Horizontal Integration and Geographic Options
+Seven considerations were developed to determine horizontal integration options for water and wastewater service providers. These key considerations include the following constraints:
+•	Administrative boundaries: Integration options align with the current administrative boundaries in Saudi Arabia (13 regions), eliminating the need to establish new boundaries and enhancing the consistency of services provided within a defined area.
+•	Proximity: Regions should be grouped in proximity to each other to maximize efficiency in cost and scale economies.
+Other considerations were treated as evaluation criteria:
+•	Balancing service level improvements: Regions with service levels below standard or limited sustainability should be grouped with regions with better performance to ensure balanced improvement in service quality and water security across the Kingdom.
+•	Facilitating private sector participation: Horizontal groupings should facilitate the success of advanced private sector participation models (such as leasing, concessions, or privatization). International benchmarks indicate that regions with high population density and larger urban areas are better prepared for advanced private sector participation models.
+•	Promoting administrative and operational efficiency: Groupings should avoid creating excessively large entities in terms of area or population to promote effective management and achieve focused oversight.
+

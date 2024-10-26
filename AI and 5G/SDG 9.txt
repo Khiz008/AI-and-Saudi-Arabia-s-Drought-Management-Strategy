@@ -1,0 +1,52 @@
+SDG 9: Industry, Innovation, and Infrastructure
+
+SDG 9 focuses on building resilient infrastructure, promoting inclusive and sustainable industrialization, and fostering innovation. Infrastructure is the backbone of development, enabling trade, connecting communities, and promoting economic growth. Industrialization, when done sustainably, drives job creation and economic development, while innovation propels efficiency and new solutions to global challenges.
+
+Targets
+SDG 9 has 8 targets:
+
+Resilient Infrastructure Development (Target 9.1):
+
+Develop quality, reliable, sustainable, and resilient infrastructure to support economic development and human well-being, with a focus on affordable and equitable access for all.
+Inclusive and Sustainable Industrialization (Target 9.2):
+
+Promote inclusive and sustainable industrialization and significantly raise the industry’s share of employment and GDP, in line with national circumstances, and double its share in least developed countries.
+Small-Scale Industrial Enterprises (Target 9.3):
+
+Increase the access of small-scale industrial and other enterprises to financial services, including affordable credit, and their integration into value chains and markets.
+Upgrade Infrastructure and Industries (Target 9.4):
+
+By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies.
+Enhance Scientific Research (Target 9.5):
+
+Enhance scientific research, upgrade technological capabilities, and encourage innovation in all countries, especially in developing countries, to promote industrial diversification and value addition.
+Facilitating Sustainable Infrastructure in Developing Countries (Target 9.a):
+
+Facilitate the development of sustainable and resilient infrastructure in developing countries through enhanced financial, technological, and technical support.
+Access to Information and Communication Technology (Target 9.c):
+
+Significantly increase access to information and communication technology (ICT) and strive to provide universal and affordable access to the internet in least developed countries by 2020.
+Challenges
+Infrastructure Gaps: Developing countries often lack basic infrastructure such as roads, electricity, and internet access, limiting economic growth.
+Sustainable Industrialization: Industrial growth often leads to environmental degradation if not managed sustainably.
+Innovation Access: Developing countries face challenges in accessing the resources and technologies needed to foster innovation.
+Importance
+Resilient infrastructure, sustainable industrialization, and innovation are key drivers of economic growth, job creation, and development. They help reduce poverty, increase productivity, and improve living standards.
+
+Since 2022, the manufacturing sector has faced stagnation, attributed to geopolitical instability, inflation, logistical challenges, rising energy costs, and a broader global economic slowdown. Globally, manufacturing's share in employment has regressed. While there has been progress in reducing CO2 intensity in manufacturing, it falls short of 2030 target values. To expedite progress towards SDG 9, efforts should prioritize accelerating the green transition, strategically prioritizing sectors, and addressing inequalities in digital and innovation sectors.
+
+Target 9.2: o The manufacturing sector rebounded strongly in 2021 post-COVID, but growth has plateaued at around 2.7% since 2022, expected to continue in 2024. Despite this, global manufacturing value added per capita rose by 16% from 2015 to 2023, reaching $1,922 per capita. Regional gaps are stark, with Europe and Northern America hitting a record $4,986 per capita, contrasting with stagnant levels of $163 in sub-Saharan Africa.
+
+o Since 2015, global manufacturing employment has fluctuated. Starting at 14.3% in 2015, it dipped to 14.2% in 2020 but saw a marginal recovery in 2021. However, by 2022, it declined to 14.1%, with notable regional disparities. While sub-Saharan Africa and Central and Southern Asia saw slight increases, other regions experienced declines, with Australia and New Zealand recording the highest fall of 0.5 percentage points from 2021 to 2022. These trends highlight the ongoing impact of crises on manufacturing employment growth.
+
+Target 9.3: Small enterprises face heightened vulnerability, particularly in low income countries. According to survey data spanning from 2006 to 2023, only 16.9% of small-scale manufacturing industries in sub-Saharan Africa had access to loans or lines of credit, compared to 45.4% in Latin America and the Caribbean. This underscores how global uncertainty hampers investment flow and financial access for small businesses, hindering their resilience and adoption of new technologies.
+
+Target 9.4: Globally, CO2 emissions per unit of GDP have steadily declined by 11.5% from 2015 to 2021, with a reduction of 16% observed in the manufacturing sector. Despite these positive trends, global CO2 emissions from fuel combustion hit a record high of 33.6 gigatonnes in 2021, with manufacturing emissions also reaching their highest level since 2014 at 6.1 gigatonnes. These figures highlight the insufficient rate of reduction in CO2 emissions intensity to achieve a significant overall decrease in worldwide CO2 emissions.
+
+Target 9.5: After a slowdown in 2020, global research and development (R&D) expenditure appeared to return to pre-pandemic levels in 2021, climbing from 1.72% of GDP in 2015 to 1.93% in 2021. However, many developing economies have R&D expenditure relative to GDP below 1%.
+
+Target 9.5: The number of researchers per million inhabitants globally increased from 1,143 in 2015 to 1,352 in 2021, with Europe and Northern America, and Australia and New Zealand employing three times higher than the global level (i.e. 4,050 and 4,696 respectively in 2021). On the other hand, sub-Saharan Africa has been substantially lower, standing at 96 researchers per million inhabitants. Additionally, women remain underrepresented, comprising only 31.5% of all researchers worldwide in 2021.
+
+Target 9.b: The gradual upward trend of medium and high-tech manufacturing value added in total value added, rising from 46.3% in 2015 to 46.9% in 2019, was briefly interrupted by the COVID-19 pandemic in 2020, dropping to 46.8%. Despite uncertainties and economic challenges, the sector displayed resilience with a slight decline of 0.67 percentage points in 2021. In Eastern and South Eastern Asia, this sector accounted for approximately 50.6% of total manufacturing in 2021, whereas in sub-Saharan Africa, it represented just 18.3%.
+
+Target 9.c: Mobile broadband (3G or higher) is accessible to 95% of the world's population, up from 78% in 2015. In most developing countries, this type of access is the main way – and often the only way – to connect to the Internet. However, addressing the remaining 5% coverage gap poses challenges. Notably, in Oceania (excluding Australia and New Zealand), the gap remains significant at 31%. Although the gap in sub-Saharan Africa is shrinking, it still stands relatively high at 17%, particularly impacting central and western Africa.

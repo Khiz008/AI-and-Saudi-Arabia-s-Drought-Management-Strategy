@@ -1,0 +1,52 @@
+SDG: 6
+SDG 6: Clean Water and Sanitation
+Overview
+SDG 6 aims to ensure the availability and sustainable management of water and sanitation for all. Access to clean water and proper sanitation is a fundamental human right and is essential for health, dignity, and development. The goal encompasses all aspects of water management, including the supply of clean water, wastewater treatment, water-related ecosystems, and water-use efficiency.
+
+Targets
+SDG 6 has 8 targets, each with specific indicators to measure progress:
+
+Universal and Equitable Access to Safe and Affordable Drinking Water (Target 6.1):
+
+By 2030, ensure that everyone has access to safe and affordable drinking water. This includes improving water supply systems, ensuring water quality, and addressing affordability.
+Adequate and Equitable Sanitation and Hygiene (Target 6.2):
+
+By 2030, achieve access to adequate and equitable sanitation and hygiene for all, with special attention to the needs of women and girls and vulnerable populations.
+Improving Water Quality (Target 6.3):
+
+By 2030, improve water quality by reducing pollution, minimizing the release of hazardous chemicals and materials, and increasing wastewater treatment and safe reuse.
+Water-Use Efficiency (Target 6.4):
+
+By 2030, increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity.
+Integrated Water Resources Management (Target 6.5):
+
+Implement integrated water resources management at all levels, including through transboundary cooperation.
+Water-Related Ecosystems (Target 6.6):
+
+By 2020, protect and restore water-related ecosystems such as rivers, wetlands, lakes, and aquifers.
+International Cooperation and Capacity-Building (Target 6.a):
+
+Expand international cooperation and support to developing countries in water and sanitation-related activities and programs, including water harvesting, desalination, water efficiency, and wastewater treatment.
+Participation of Local Communities (Target 6.b):
+
+Support and strengthen the participation of local communities in improving water and sanitation management.
+Challenges
+Water Scarcity: An increasing number of regions face severe water stress, impacting drinking water, agriculture, and sanitation.
+Pollution: Industrial waste, untreated sewage, and agricultural runoff are major sources of water pollution.
+Access Inequality: Rural and marginalized communities often face difficulties accessing clean water and sanitation.
+Importance
+Access to clean water and sanitation is essential for health, economic development, and environmental sustainability. Water scarcity and poor sanitation contribute to diseases, reduced agricultural productivity, and conflict over water resources.
+
+None of the SDG 6 targets are on track to be met. As of 2022, 2.2 billion people were without access to safely managed drinking water and 3.5 billion lacked access to safely managed sanitation. Between 2002 and 2021 droughts affected more than 1.4 billion people. As of 2022, roughly half of the world’s population experienced severe water scarcity for at least part of the year, while one quarter faced ‘extremely high’ levels of water stress. Climate change worsens these issues, posing significant risks to social stability. While transboundary river and lake basins are home to approximately 40% of the world’s population and are shared by 153 countries, less than a fifth of these countries have operational arrangements for cooperation in place for all their transboundary waters. Coordinated global action on integrated water management, addressing the impacts of climate change on water resources, and better management of shared waters are key to restoring focus on the Goal.
+
+Targets 6.1 and 6.2: Between 2015 and 2022, the population using safely managed drinking water increased from 69% to 73%, the population using safely managed sanitation increased from 49% to 57% and the population using basic hygiene services increased from 67% to 75%. Achieving universal coverage of safely managed drinking water, safely managed sanitation, and basic hygiene services by 2030 will require respective increases of 6x, 5x, and 3x in the current global rates of progress.
+
+Target 6.3: Among the 73 countries reporting on both total wastewater generation and total wastewater treatment in 2022, 76% of total wastewater flows received at least some treatment. Of the 42 countries that specified the level of treatment, 60% of total wastewater flows were safely treated (i.e. at least secondary treatment). In all world regions, many rivers, lakes and aquifers are still in good condition – as of 2023, 56% of water bodies assessed in 120 countries have good water quality. However, countries that implement the most extensive monitoring programmes show that water quality is degrading since 2017.
+
+Target 6.4: Water use efficiency rose from $17.4/m3 in 2015 to $20.8/m3 in 2021, a 19% increase. At the global level, the water stress level reached an average level of 18.6% in 2021 but it hides large regional variations as some regions in the world show critical water stress levels which may compromise their economic and social development. Globally, water stress level has slightly increased by 3% from 2015 to 2021.
+
+Target 6.5: Global progress on implementing integrated water resources management remains slow – 49% in 2017, 54% in 2020, 57% in 2023, not on track to reach the 2030 target (91%). Only 43 out of 153 countries have operational arrangements in place for 90% or more of their shared transboundary waters (rivers, lakes and aquifers), and more than 20 countries have no operational arrangements in place for any of their transboundary waters. Since 2020 only around ten new arrangements for transboundary water cooperation have been adopted.
+
+Target 6.6: The world has experienced a net increase in permanent surface water between 2005 and 2022, much of which resulted from climate change and reservoir filling. While this global net gain is positive, it is important to recognize that the data also include losses of permanent water in some regions linked to droughts and increased water demands.
+
+Target 6.a: ODA disbursements to the water sector increased between 2021 and 2022 by 10% to $8.5 billion, reversing a declining trend seen over the past five years.
